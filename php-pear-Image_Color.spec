@@ -5,8 +5,8 @@
 
 Summary:	%{_pearname} - Manage and handles color data and conversions
 Name:		php-pear-%{_pearname}
-Version:	1.0.2
-Release:	%mkrel 4
+Version:	1.0.3
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
