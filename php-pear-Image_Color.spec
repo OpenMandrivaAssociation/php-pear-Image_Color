@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.4
-Release:	4
+Release:	5
 Summary:	Manage and handles color data and conversions
 License:	PHP License
 Group:		Development/PHP
