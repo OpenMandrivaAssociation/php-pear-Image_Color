@@ -5,7 +5,7 @@
 Summary:	Manage and handles color data and conversions
 Name:		php-pear-%{modname}
 Version:	1.0.4
-Release:	12
+Release:	13
 License:	PHP License
 Group:		Development/PHP
 Url:		http://pear.php.net/package/Image_Color/
