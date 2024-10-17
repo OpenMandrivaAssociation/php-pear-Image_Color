@@ -8,7 +8,7 @@ Version:	1.0.4
 Release:	13
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/Image_Color/
+Url:		https://pear.php.net/package/Image_Color/
 Source0:	http://download.pear.php.net/package/%{modname}-%{version}.tar.bz2
 BuildArch:	noarch
 BuildRequires:	php-pear
